@@ -24,6 +24,7 @@
     <!-- Modules -->
     <modules>
         <module>java-path-core-collection</module>
+        <module>java-path-core-generic</module>
     </modules>
 
     <!-- Properties/Variables -->
