@@ -25,6 +25,7 @@
     <modules>
         <module>java-path-core-collection</module>
         <module>java-path-core-generic</module>
+        <module>java-path-core-io</module>
     </modules>
 
     <!-- Properties/Variables -->
