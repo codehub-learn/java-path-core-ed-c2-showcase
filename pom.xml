@@ -24,6 +24,7 @@
     <!-- Modules -->
     <modules>
         <module>java-path-core-collection</module>
+        <module>java-path-core-datetime</module>
         <module>java-path-core-generic</module>
         <module>java-path-core-io</module>
         <module>java-path-core-serialization</module>
