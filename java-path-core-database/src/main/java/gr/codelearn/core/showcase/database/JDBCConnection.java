@@ -35,5 +35,14 @@ public class JDBCConnection {
 		}
 		return connection;
 	}
+	
+	public static void closeConnection() {
+		try {
+			connection.close();
+			connection = null;
+		} catch (SQLException e) {
+			System.out.println("An error occured. Details: "+e.getMessage());
+		}
+	}
 
 }
