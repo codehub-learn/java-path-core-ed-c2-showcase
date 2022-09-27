@@ -28,6 +28,7 @@
         <module>java-path-core-generic</module>
         <module>java-path-core-io</module>
         <module>java-path-core-serialization</module>
+        <module>java-path-core-database</module>
     </modules>
 
     <!-- Properties/Variables -->
