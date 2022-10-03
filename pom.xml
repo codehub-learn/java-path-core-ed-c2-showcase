@@ -30,6 +30,7 @@
         <module>java-path-core-serialization</module>
         <module>java-path-core-database</module>
         <module>java-path-core-hibernate</module>
+        <module>java-path-core-testing</module>
     </modules>
 
     <!-- Properties/Variables -->
