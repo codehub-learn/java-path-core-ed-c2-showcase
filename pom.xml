@@ -31,6 +31,7 @@
         <module>java-path-core-database</module>
         <module>java-path-core-hibernate</module>
         <module>java-path-core-testing</module>
+        <module>java-path-core-log</module>
     </modules>
 
     <!-- Properties/Variables -->
